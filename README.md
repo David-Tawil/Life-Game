@@ -1,2 +1,2 @@
-# Life-Game
- Conway's Game of Life
+# Life-Game 
+Java program simulating Conway's Game of Life  
